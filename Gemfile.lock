@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pattern-match (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pattern-match
